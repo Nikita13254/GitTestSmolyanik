@@ -1,0 +1,2 @@
+# GitTestSmolyanik
+Текстовый репозиторий
